@@ -17,9 +17,9 @@ Welcome to the Age Calculator project! This simple web application allows users 
   The calculated age is displayed dynamically on the webpage.
     <br/>
 
-
-##Usage
+## Usage
 To use the Age Calculator, simply open the index.html file in a web browser. Enter your date of birth in the provided input field and click the "Calculate Age" button. Your age will be displayed on the webpage.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
