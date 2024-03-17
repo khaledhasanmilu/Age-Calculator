@@ -1,66 +1,37 @@
 # Age-Calculator
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Java Version](https://img.shields.io/badge/Java-11-orange.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+
 
 ## Overview
-
-Age Calculator provide your orginal age.
+Welcome to the Age Calculator project! This simple web application allows users to calculate their age based on their date of birth. It's built using HTML, CSS, and JavaScript, providing a clean and intuitive interface for users to interact with.
 
 ## Features🧿
-- **DashBoard**:
-    <br><br> <img src="src/main/resources/com/self/management/self_management/IMG/pic__Dashboard.png"/>
+- **Input Date of Birth**:
+Users can enter their date of birth in the provided input field.
     <br/>
-- **Task Management**: Keep track of your tasks, prioritize them, and mark them as completed.
-    <br><br> <img src="src/main/resources/com/self/management/self_management/IMG/pic__todo.png"/>
+- **Calculate Age**:
+  Upon entering the date of birth, users can click the "Calculate Age" button to compute their current age.
     <br/>
-- **Finance Mangement**:
- <br><br> <img src="src/main/resources/com/self/management/self_management/IMG/pic__finance.png"/>
+- **Display Age**:
+The calculated age is displayed dynamically on the webpage.
     <br/>
-- **Create Note**: 
- <br><br> <img src="src/main/resources/com/self/management/self_management/IMG/pic__note.png"/>
-    <br/>
-- **ToolBox**:
- <br><br> <img src="src/main/resources/com/self/management/self_management/IMG/pic__toolBox.png"/>
-    <br/>
-- **Messaging**:
- <br><br> <img src="src/main/resources/com/self/management/self_management/IMG/pic__message.png"/>
-    <br/>
-    
-### Prerequisites
 
-- Java Development Kit (JDK) 11 or later
-- Maven (for building and managing dependencies)
-### Build and Run
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/self-management.git
-2. Navigate to the project directory:
-   ```bash
-     cd self-management
-   ```
-3. Build the project using Maven:
-
-```bash
-     mvn clean install
-```
-4. Run the application:
-```bash
-    java -jar target/self-management.jar
-```
-
+##Usage
+To use the Age Calculator, simply open the index.html file in a web browser. Enter your date of birth in the provided input field and click the "Calculate Age" button. Your age will be displayed on the webpage.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-Special thanks to contributors who have participated in this project.
-Feel free to reach out if you have any questions or issues. Happy self-managing!
 
 ## Contributors
 
 - [Khaled Hasan Milu](https://github.com/khaledhasanmilu)
+
+##Contact
+
+[kh.milu338@gmail.com]
+
+Thank you for using the Age Calculator project! We hope it proves to be a helpful tool for you. If you have any questions or feedback, don't hesitate to reach out. Happy calculating!
 
 
 
