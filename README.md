@@ -8,13 +8,13 @@ Welcome to the Age Calculator project! This simple web application allows users 
 
 ## Features🧿
 - **Input Date of Birth**:
-Users can enter their date of birth in the provided input field.
+  Users can enter their date of birth in the provided input field.
     <br/>
 - **Calculate Age**:
   Upon entering the date of birth, users can click the "Calculate Age" button to compute their current age.
     <br/>
 - **Display Age**:
-The calculated age is displayed dynamically on the webpage.
+  The calculated age is displayed dynamically on the webpage.
     <br/>
 
 
