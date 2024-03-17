@@ -23,15 +23,13 @@ To use the Age Calculator, simply open the index.html file in a web browser. Ent
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Contact
+**Gmail :**kh.milu338@gmail.com
+
+Thank you for using the Age Calculator project! We hope it proves to be a helpful tool for you. If you have any questions or feedback, don't hesitate to reach out. Happy calculating!
 ## Contributors
 
 - [Khaled Hasan Milu](https://github.com/khaledhasanmilu)
-
-##Contact
-
-[kh.milu338@gmail.com]
-
-Thank you for using the Age Calculator project! We hope it proves to be a helpful tool for you. If you have any questions or feedback, don't hesitate to reach out. Happy calculating!
 
 
 
